@@ -1,0 +1,22 @@
+{
+  "name": "es6-webcam",
+  "version": "1.0.0",
+  "description": "setup for localhost",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.css, *.html, *.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhuyoon/ES6-Webcam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhuyoon/ES6-Webcam/issues"
+  },
+  "homepage": "https://github.com/juhuyoon/ES6-Webcam#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.7"
+  }
+}
